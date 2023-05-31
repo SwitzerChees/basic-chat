@@ -1,0 +1,16 @@
+.message {
+    background-color: burlywood;
+    padding: 10px;
+    display: inline-block;
+}
+main {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
